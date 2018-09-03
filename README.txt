@@ -5,6 +5,6 @@ I'm focused on creating physic, no monetize artistic game, but all I draw in gim
 
 
 [Po Polsku]
-Dedykacja dla P.C., dizêki której mog³em na czymœ postawiæ ten abstrakcyjny szkielet, bez ¿adnego pomys³u.
-Folder standalne zawiera w pe³ni dzia³aj¹c¹ grê.
-Folder Project Unty posiada ca³y projekt, ale raczej nic z nim nikt nie zrobi.
+Dedykacja dla P.C., dziÄ™ki ktÃ³rej mogÅ‚em na kimÅ› postawiÄ‡ ten abstrakcyjny szkielet, bez Å¼adnego pomysÅ‚u.
+Folder standalne zawiera w peÅ‚ni dziaÅ‚ajÄ…cÄ… grÄ™.
+Folder Project Unty posiada caÅ‚y projekt, ale raczej nic z nim nikt nie zrobi.
